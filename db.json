@@ -9,7 +9,7 @@
       "category": "Food",
       "year": "12-02-2020",
       "image": "https://m.media-amazon.com/images/I/819GDpbJp3L._AC_UL480_FMwebp_QL65_.jpg",
-      "id": "1"
+      "id": 1
     },
     {
       "image": "https://m.media-amazon.com/images/I/81MJ4Eic6YL._AC_CR0%2C0%2C0%2C0_SX615_SY462_.jpg",
@@ -20,7 +20,7 @@
       "category": "Food",
       "year": "05-04-2020",
       "title": "Wakao products",
-      "id": "3"
+      "id": 3
     },
     {
       "image": "https://m.media-amazon.com/images/I/81BHMCJnp9L._SX679_PIbundle-5,TopRight,0,0_AA679SH20_.jpg",
@@ -31,7 +31,7 @@
       "category": "Food",
       "year": "06-05-2017",
       "title": "Tagz Chips",
-      "id": "4"
+      "id": 4
     },
     {
       "image": "https://m.media-amazon.com/images/I/81UAsQsdp5L._AC_UL480_FMwebp_QL65_.jpg",
@@ -42,15 +42,18 @@
       "category": "Personal Care",
       "year": "20-01-2014",
       "title": "The Saas Bar ",
-      "id": "5"
+      "id": 5
     },
     {
-      "title": "Hammer Buds",
       "image": "https://m.media-amazon.com/images/I/61RjUgGy04L._AC_UY327_FMwebp_QL65_.jpg",
+      "price": 52,
+      "percentage": 25,
+      "description": "Just over a year old, Haryana-based Hammer founded by Rohit Nandwani has streamlined its product range keeping with the shift to wireless audio tech. It is now focused on strengthening its D2C game.",
       "founder": "Rohit Nandwani",
       "category": "Electronics",
-      "price": "55",
-      "id": "6"
+      "year": "21-03-2012",
+      "title": "Hammer",
+      "id": 6
     },
     {
       "image": "https://m.media-amazon.com/images/I/51DUbOFXgHL._AC_UL480_FMwebp_QL65_.jpg",
@@ -61,7 +64,7 @@
       "category": "Personal Care",
       "year": "14-06-2016",
       "title": "auli Lifestyle",
-      "id": "7"
+      "id": 7
     },
     {
       "image": "https://m.media-amazon.com/images/I/71Wa7-cOUqL._AC_UL480_FMwebp_QL65_.jpg",
@@ -72,7 +75,7 @@
       "category": "Fashion",
       "year": "14-08-2021",
       "title": "Quirky Naari",
-      "id": "8"
+      "id": 8
     },
     {
       "image": "https://static.wixstatic.com/media/5755f6_023c4baf970a43e4b187f7271a33fcad~mv2.png/v1/crop/x_237,y_352,w_1328,h_1331/fill/w_614,h_614,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/5755f6_023c4baf970a43e4b187f7271a33fcad~mv2.png",
@@ -83,7 +86,7 @@
       "category": "Education",
       "year": "21-05-2021",
       "title": "Booz scooters",
-      "id": "9"
+      "id": 9
     },
     {
       "image": "https://m.media-amazon.com/images/I/915WVrOntJL._AC_UL480_FMwebp_QL65_.jpg",
@@ -94,7 +97,7 @@
       "category": "Food",
       "year": "24-12-2018",
       "title": "JhaJi Achaar",
-      "id": "10"
+      "id": 10
     },
     {
       "image": "https://www.cocofit.in/images/Picture4_large.png",
@@ -105,7 +108,7 @@
       "category": "Food",
       "year": "17-11-2017",
       "title": "Cocofit",
-      "id": "11"
+      "id": 11
     },
     {
       "image": "https://static.wixstatic.com/media/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png/v1/fill/w_506,h_314,al_c,q_80,usm_0.66_1.00_0.01/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png",
@@ -116,7 +119,7 @@
       "category": "Food",
       "year": "20-12-2021",
       "title": "Falhari",
-      "id": "13"
+      "id": 13
     },
     {
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYOkeAS5PgCBISOPRp_mZJuIxJ74IyCAlP_A&usqp=CAU",
@@ -127,7 +130,7 @@
       "category": "Electronics",
       "year": "07-09-2022",
       "title": "Padcare Lab",
-      "id": "15"
+      "id": 15
     },
     {
       "image": "https://m.media-amazon.com/images/I/617QlJ62nFL._AC_UL480_FMwebp_QL65_.jpg",
@@ -138,7 +141,7 @@
       "category": "Personal Care",
       "year": "01-07-2021",
       "title": "Paradyes",
-      "id": "16"
+      "id": 16
     },
     {
       "image": "https://m.media-amazon.com/images/I/610d1RfgHDL._AC_UL480_FMwebp_QL65_.jpg",
@@ -149,7 +152,7 @@
       "category": "Electronics",
       "year": "12-22-2014",
       "title": "AyuSynk",
-      "id": "17"
+      "id": 17
     },
     {
       "image": "https://www.primebook.in/uploads/feature/1675677835_d887598e98a67da677f0.png",
@@ -160,7 +163,7 @@
       "category": "Tech",
       "title": "Primebook",
       "year": "14-02-2020",
-      "id": "21"
+      "id": 21
     },
     {
       "image": "https://m.media-amazon.com/images/I/61pq3ae629L._AC_UY327_FMwebp_QL65_.jpg",
@@ -171,9 +174,62 @@
       "category": "Education",
       "year": "15-04-2020",
       "title": "HoloKitab",
-      "id": "22"
+      "id": 22
     }
   ],
+    "cartpage": [
+      {
+        "id": "13",
+        "title": "Falhari",
+        "image": "https://static.wixstatic.com/media/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png/v1/fill/w_506,h_314,al_c,q_80,usm_0.66_1.00_0.01/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png",
+        "founder": "Rahul Shankar Bhardwajsddf",
+        "category": "Food",
+        "price": "26"
+      },
+      {
+        "id": "13",
+        "title": "Falhari",
+        "image": "https://static.wixstatic.com/media/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png/v1/fill/w_506,h_314,al_c,q_80,usm_0.66_1.00_0.01/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png",
+        "founder": "Rahul Shankar Bhardwajsddf",
+        "category": "Food",
+        "price": "26"
+      },
+      {
+        "id": "13",
+        "title": "Falhari",
+        "image": "https://static.wixstatic.com/media/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png/v1/fill/w_506,h_314,al_c,q_80,usm_0.66_1.00_0.01/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png",
+        "founder": "Rahul Shankar Bhardwajsddf",
+        "category": "Food",
+        "price": "26"
+      },
+      {
+        "id": "13",
+        "title": "Falhari",
+        "image": "https://static.wixstatic.com/media/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png/v1/fill/w_506,h_314,al_c,q_80,usm_0.66_1.00_0.01/5f24cf_a17220104bb5486d943ad3acd5808e90~mv2.png",
+        "founder": "Rahul Shankar Bhardwajsddf",
+        "category": "Food",
+        "price": "26"
+      },
+      {
+        "id": "15",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYOkeAS5PgCBISOPRp_mZJuIxJ74IyCAlP_A&usqp=CAU",
+        "price": 50,
+        "percentage": 2,
+        "description": "We push our boundaries every day, we’re here to innovate and inspire a new generation of sustainable sanitation technology. PadCare isn’t a startup, it’s a revolution.",
+        "founder": "Ajinkya Dhariya",
+        "category": "Electronics",
+        "year": "07-09-2022",
+        "title": "Padcare Lab"
+      },
+      {
+        "id": "16",
+        "image": "https://m.media-amazon.com/images/I/617QlJ62nFL._AC_UL480_FMwebp_QL65_.jpg",
+        "price": "57",
+        "category": "sport",
+        "title": "Paradyes",
+        "founder": "Yushika Jolly,"
+      }
+    ],
   "cart": [
     {
       "id": "543d",
